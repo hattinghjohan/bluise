@@ -1,9 +1,9 @@
 {
   "title": "edutots.co.za",
   "titleTemplate": "| It starts here",
-  "welcomeText": "# edutots.co.za\n\nWe are only starting...",
+  "welcomeText": "# **edutots.co.za**\n\nWe are only starting...",
   "logo": "/images/uploads/main_logo.png",
-  "icon": "/images/uploads/main_logo.png",
+  "icon": "/images/uploads/main_icon.png",
   "loadingColor": "#0b3765",
   "seoDescription": "edutots.co.za",
   "seoMetaImage": ""
