@@ -37,7 +37,7 @@
         <img
           alt="Hero"
           class="rounded shadow-xl"
-          src="https://source.unsplash.com/random/720x400"
+          src="https://picsum.photos/720/400?blur=1"
         />
       </div>
     </div>
