@@ -5,7 +5,7 @@
         <svg
           baseProfile="tiny"
           height="32px"
-          fill="white"
+          fill="blue"
           version="1.1"
           viewBox="0 0 24 24"
           width="24px"
